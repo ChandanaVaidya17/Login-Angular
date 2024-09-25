@@ -1,6 +1,6 @@
 # FirebaseAngularAuth
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+As a first assignment This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 A login page with database seeing for user registration and login databse is firebase used here.
 
 ## Development server
